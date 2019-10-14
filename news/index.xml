@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Ротари клуб София Триадица</title>
+    <link>https://velzevur.github.io/rotary/news/</link>
+    <description>Recent content in News on Ротари клуб София Триадица</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Oct 2019 14:13:15 +0300</lastBuildDate>
+    
+	<atom:link href="https://velzevur.github.io/rotary/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Най-новата нова новина</title>
+      <link>https://velzevur.github.io/rotary/news/sixt/</link>
+      <pubDate>Sun, 06 Oct 2019 14:13:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/sixt/</guid>
+      <description>Това е последната новина</description>
+    </item>
+    
+    <item>
+      <title>Примери</title>
+      <link>https://velzevur.github.io/rotary/news/description/</link>
+      <pubDate>Sun, 06 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/description/</guid>
+      <description>Това е страничка, която показва как се визуализират различни елементи
+Линкове По-долу има линкове за MP3 версии на химнове:
+ химн на Република България химн на Ротари България  Картинки По-долу е логото на Ротари България с темата на годината: youtube Можем да ембедваме видео клипове:
+  Не знам дали би ни трябвало да имаме code snippet-и в сайта, може би не ни трябва, но биха изглеждали така:</description>
+    </item>
+    
+    <item>
+      <title>По колко новини ще има на  front page?</title>
+      <link>https://velzevur.github.io/rotary/news/fourth/</link>
+      <pubDate>Sat, 05 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/fourth/</guid>
+      <description>Станицата ще показва до 6 новини.</description>
+    </item>
+    
+    <item>
+      <title>Езеро-сърце насред гората</title>
+      <link>https://velzevur.github.io/rotary/news/third/</link>
+      <pubDate>Fri, 04 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/third/</guid>
+      <description>Това е красива картинка на езеро, което се намира насред гората. Има формата на сърце. Това показва как би изглеждала картата когато текстът е по-дълъг. лорем ипсум долор сит амет, ан дицант алияуип цоммуне усу, тантас цонцлусионемяуе ех усу, еи идяуе алияуид номинати мел. Еам цу оратио мнесарчум, еам ид нибх цонцлудатуряуе.
+Вим децоре цаусае цу. Цу цум торяуатос абхорреант, вих ех иудицо маиестатис репудиандае, ад яуо цибо иудицо патриояуе. Меи суммо петентиум демоцритум ет.</description>
+    </item>
+    
+    <item>
+      <title>Втора новина</title>
+      <link>https://velzevur.github.io/rotary/news/second-news/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/second-news/</guid>
+      <description>Това ще са новини, които отразяват службата ни и прорес по различни проекти. Те ще могат да се отварят в нова страница, за да могат да бъдат share-вани в различни канали (Facebook, Instagram, etc.)</description>
+    </item>
+    
+    <item>
+      <title>Първа новина</title>
+      <link>https://velzevur.github.io/rotary/news/first-news/</link>
+      <pubDate>Tue, 01 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/first-news/</guid>
+      <description>Това е най-старата новина</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ротари клуб София Триадица</title>
+    <link>https://velzevur.github.io/rotary/projects/</link>
+    <description>Recent content in Projects on Ротари клуб София Триадица</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
+    
+	<atom:link href="https://velzevur.github.io/rotary/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RYLA</title>
+      <link>https://velzevur.github.io/rotary/projects/ryla/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/projects/ryla/</guid>
+      <description>ala bala bala</description>
+    </item>
+    
+    <item>
+      <title>Залесяване</title>
+      <link>https://velzevur.github.io/rotary/projects/three-planting/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/projects/three-planting/</guid>
+      <description>ala bala bala</description>
+    </item>
+    
+    <item>
+      <title>Подкрепа на асоцията на децата</title>
+      <link>https://velzevur.github.io/rotary/projects/talanted-kids/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/projects/talanted-kids/</guid>
+      <description>ala bala bala</description>
+    </item>
+    
+    <item>
+      <title>Скрийнинг за амблиопия</title>
+      <link>https://velzevur.github.io/rotary/projects/ambliopia/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/projects/ambliopia/</guid>
+      <description>ala bala bala</description>
+    </item>
+    
+  </channel>
+</rss>
