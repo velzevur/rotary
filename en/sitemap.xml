@@ -28,6 +28,26 @@
   </url>
   
   <url>
+    <loc>https://velzevur.github.io/rotary/en/projects/ambliopia/</loc>
+    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://velzevur.github.io/rotary/projects/ambliopia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://velzevur.github.io/rotary/en/projects/ambliopia/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/en/about/board/</loc>
+    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://velzevur.github.io/rotary/en/about/history/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
     <xhtml:link
@@ -49,6 +69,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://velzevur.github.io/rotary/en/about/history/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/en/projects/</loc>
+    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://velzevur.github.io/rotary/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://velzevur.github.io/rotary/en/projects/"
                 />
   </url>
   
@@ -75,6 +110,11 @@
                 hreflang="en"
                 href="https://velzevur.github.io/rotary/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/en/about/rotary/</loc>
+    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
   </url>
   
   <url>
