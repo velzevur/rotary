@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://velzevur.github.io/rotary/tags/article-first/</loc>
-    <lastmod>2019-10-06T14:13:15+03:00</lastmod>
+    <loc>https://velzevur.github.io/rotary/tags/ambliopia/</loc>
+    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://velzevur.github.io/rotary/news/</loc>
-    <lastmod>2019-10-06T14:13:15+03:00</lastmod>
+    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://velzevur.github.io/rotary/tags/</loc>
-    <lastmod>2019-10-06T14:13:15+03:00</lastmod>
+    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,6 +35,16 @@
                 hreflang="bg"
                 href="https://velzevur.github.io/rotary/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/news/2020-03-03/</loc>
+    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/tags/article-first/</loc>
+    <lastmod>2019-10-06T14:13:15+03:00</lastmod>
   </url>
   
   <url>
@@ -188,8 +198,23 @@
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary/projects/ambliopia/</loc>
+    <loc>https://velzevur.github.io/rotary/rotary/foundation/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/news/first-news/</loc>
+    <lastmod>2019-10-01T14:12:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/news/2019-03-03/</loc>
+    <lastmod>2019-03-03T14:12:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/projects/ambliopia/</loc>
+    <lastmod>2018-01-01T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -200,16 +225,6 @@
                 hreflang="bg"
                 href="https://velzevur.github.io/rotary/projects/ambliopia/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary/rotary/foundation/</loc>
-    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary/news/first-news/</loc>
-    <lastmod>2019-10-01T14:12:15+03:00</lastmod>
   </url>
   
   <url>

@@ -5,10 +5,19 @@
     <link>https://velzevur.github.io/rotary/news/</link>
     <description>Recent content in News on Ротари клуб София Триадица</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Oct 2019 14:13:15 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 14:12:15 +0300</lastBuildDate>
     
 	<atom:link href="https://velzevur.github.io/rotary/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Скрийнинг за амблиопия в район студентски</title>
+      <link>https://velzevur.github.io/rotary/news/2020-03-03/</link>
+      <pubDate>Tue, 03 Mar 2020 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/2020-03-03/</guid>
+      <description>Амблиопията, позната още под наименованието „мързеливо око” , представлява състояние на намалено зрение, най-често засягащо едното око, което не подлежи на корекция с очила или контактни лещи и не се дължи на определено очно заболяване. В основата си, амблиопията представлява неврологично заболяване, при което мозъкът по една или друга причина не може да възприеме образа, уловен от амблиопичното или „мързеливо”око. Макар по-често да е засегнато само едното око, намаление на зрението може да се наблюдава и в двете очи.</description>
+    </item>
     
     <item>
       <title>Най-новата нова новина</title>
@@ -66,6 +75,15 @@
       
       <guid>https://velzevur.github.io/rotary/news/first-news/</guid>
       <description>Това е най-старата новина</description>
+    </item>
+    
+    <item>
+      <title>Скрийнинг за амблиопия в район Триадица</title>
+      <link>https://velzevur.github.io/rotary/news/2019-03-03/</link>
+      <pubDate>Sun, 03 Mar 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/news/2019-03-03/</guid>
+      <description>Амблиопията, позната още под наименованието „мързеливо око” , представлява състояние на намалено зрение, най-често засягащо едното око, което не подлежи на корекция с очила или контактни лещи и не се дължи на определено очно заболяване. В основата си, амблиопията представлява неврологично заболяване, при което мозъкът по една или друга причина не може да възприеме образа, уловен от амблиопичното или „мързеливо”око. Макар по-често да е засегнато само едното око, намаление на зрението може да се наблюдава и в двете очи.</description>
     </item>
     
   </channel>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Rotary club Sofia Triaditsa</title>
+    <link>https://velzevur.github.io/rotary/en/news/</link>
+    <description>Recent content in News on Rotary club Sofia Triaditsa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
+    
+	<atom:link href="https://velzevur.github.io/rotary/en/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First piece of news</title>
+      <link>https://velzevur.github.io/rotary/en/news/my-first-post/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/news/my-first-post/</guid>
+      <description>ala bala bala</description>
+    </item>
+    
+  </channel>
+</rss>
