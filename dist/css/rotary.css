@@ -6945,14 +6945,17 @@ label.panel-block {
   display: inline-block; }
 
 .club-name {
-  color: #0C3C7C; }
+  color: white; }
 
 .logo {
   display: inline-block;
-  background: url("/rotary/images/logo.png") no-repeat;
-  width: 206px;
-  height: 77px;
+  background: url("/rotary_blue/images/white-logo.png") no-repeat;
+  width: 213px;
+  height: 80px;
   background-size: cover; }
+
+.header {
+  background-color: #0C3C7C; }
 
 .footer {
   padding-top: 0px;

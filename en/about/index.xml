@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Rotary club Sofia Triaditsa</title>
-    <link>https://velzevur.github.io/rotary/en/about/</link>
+    <link>https://velzevur.github.io/rotary_blue/en/about/</link>
     <description>Recent content in Abouts on Rotary club Sofia Triaditsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
     
-	<atom:link href="https://velzevur.github.io/rotary/en/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://velzevur.github.io/rotary_blue/en/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Board</title>
-      <link>https://velzevur.github.io/rotary/en/about/board/</link>
+      <link>https://velzevur.github.io/rotary_blue/en/about/board/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary/en/about/board/</guid>
+      <guid>https://velzevur.github.io/rotary_blue/en/about/board/</guid>
       <description>Some board information goes here</description>
     </item>
     
     <item>
       <title>Our story</title>
-      <link>https://velzevur.github.io/rotary/en/about/history/</link>
+      <link>https://velzevur.github.io/rotary_blue/en/about/history/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary/en/about/history/</guid>
+      <guid>https://velzevur.github.io/rotary_blue/en/about/history/</guid>
       <description>The Rotary club of Sofia Triaditsa is Lorem ipsum dolor sit amet, scripserit complectitur est ut, cu eum nisl nostrum convenire. Falli persecuti ut vel, eu possit equidem mei. Copiosae laboramus deseruisse et eum, vis at torquatos signiferumque. Sed doming option ei, vix dicat offendit conceptam et. Nisl illum eu vel.
 Te velit mucius legimus mea, sit dicat debitis consequuntur an. Ex his meis dolorem temporibus, nam veritus epicuri definitionem no.</description>
     </item>
     
     <item>
       <title>What is Rotary</title>
-      <link>https://velzevur.github.io/rotary/en/about/rotary/</link>
+      <link>https://velzevur.github.io/rotary_blue/en/about/rotary/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary/en/about/rotary/</guid>
+      <guid>https://velzevur.github.io/rotary_blue/en/about/rotary/</guid>
       <description>Detailed information for Rotary, Rotary International and Rotary Foundation goes here</description>
     </item>
     

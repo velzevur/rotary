@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rotaries on Ротари клуб София Триадица</title>
-    <link>https://velzevur.github.io/rotary/rotary/</link>
+    <link>https://velzevur.github.io/rotary_blue/rotary/</link>
     <description>Recent content in Rotaries on Ротари клуб София Триадица</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
     
-	<atom:link href="https://velzevur.github.io/rotary/rotary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://velzevur.github.io/rotary_blue/rotary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>История на Ротари</title>
-      <link>https://velzevur.github.io/rotary/rotary/history/</link>
+      <link>https://velzevur.github.io/rotary_blue/rotary/history/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary/rotary/history/</guid>
+      <guid>https://velzevur.github.io/rotary_blue/rotary/history/</guid>
       <description>Тук описваме подробно и с картинки историята на Ротари.
 Мисля, че е добро място да се опише и историята на Ротари България.
 Целта е външен човек да може да се запознае с основните принципи, върху които се гради един клуб.</description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Каузи на Ротари</title>
-      <link>https://velzevur.github.io/rotary/rotary/causes/</link>
+      <link>https://velzevur.github.io/rotary_blue/rotary/causes/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary/rotary/causes/</guid>
+      <guid>https://velzevur.github.io/rotary_blue/rotary/causes/</guid>
       <description>Тук описваме подробно каузите на Ротари.
 Мисля, че е добро място да се опише и борбата с полиомиелита.
 Целта е външен човек да може да се запознае с основните цели, които са признати за общочовешки.</description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>Фондация Ротари</title>
-      <link>https://velzevur.github.io/rotary/rotary/foundation/</link>
+      <link>https://velzevur.github.io/rotary_blue/rotary/foundation/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary/rotary/foundation/</guid>
+      <guid>https://velzevur.github.io/rotary_blue/rotary/foundation/</guid>
       <description>Не съм сигурен до колко това има смисъл да бъде тук. Сложил съм го за пълнота.
 Присъства в препоръките на Ротари Интернешънъл по изграждане на online identity.</description>
     </item>
