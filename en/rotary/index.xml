@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rotaries on Rotary club Sofia Triaditsa</title>
+    <link>https://velzevur.github.io/rotary/en/rotary/</link>
+    <description>Recent content in Rotaries on Rotary club Sofia Triaditsa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
+    
+	<atom:link href="https://velzevur.github.io/rotary/en/rotary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rotary Foundation</title>
+      <link>https://velzevur.github.io/rotary/en/rotary/foundation/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/rotary/foundation/</guid>
+      <description>The Rotary Foundation of Rotary International was founded in 1917 as a donation fund. The Congress in 1928 named it the Rotary Foundation. In 1931, the Foundation became a corporation, acting as a trustee and investment adviser, and in 1983 it was transformed into a non-profit corporation under the laws of Illinois, USA.
+The Rotary Foundation is funded solely by voluntary donations from Rotarians and Rotary friends. It is managed by its trustees solely for charitable and educational purposes, in accordance with its registration and statutes.</description>
+    </item>
+    
+  </channel>
+</rss>

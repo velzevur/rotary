@@ -2,30 +2,26 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://velzevur.github.io/rotary_blue/bg/sitemap.xml</loc>
-		
-	   	<lastmod>2020-03-03T14:12:15+03:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://velzevur.github.io/rotary_blue/en/sitemap.xml</loc>
+	   	<loc>https://velzevur.github.io/rotary/bg/sitemap.xml</loc>
 		
 	   	<lastmod>2019-10-02T14:12:15+03:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://velzevur.github.io/rotary_blue/de/sitemap.xml</loc>
+	   	<loc>https://velzevur.github.io/rotary/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-10-02T14:12:15+03:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://velzevur.github.io/rotary_blue/sv/sitemap.xml</loc>
+	   	<loc>https://velzevur.github.io/rotary/de/sitemap.xml</loc>
 		
-	   	<lastmod>2019-10-02T14:12:15+03:00</lastmod>
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://velzevur.github.io/rotary/sv/sitemap.xml</loc>
 		
 	</sitemap>
 	

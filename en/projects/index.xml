@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rotary club Sofia Triaditsa</title>
-    <link>https://velzevur.github.io/rotary_blue/en/projects/</link>
+    <link>https://velzevur.github.io/rotary/en/projects/</link>
     <description>Recent content in Projects on Rotary club Sofia Triaditsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
     
-	<atom:link href="https://velzevur.github.io/rotary_blue/en/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://velzevur.github.io/rotary/en/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ambliopia screening</title>
-      <link>https://velzevur.github.io/rotary_blue/en/projects/ambliopia/</link>
+      <title>Afforestation</title>
+      <link>https://velzevur.github.io/rotary/en/projects/afforestation/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/en/projects/ambliopia/</guid>
-      <description>ala bala bala</description>
+      <guid>https://velzevur.github.io/rotary/en/projects/afforestation/</guid>
+      <description>One of the foundamental ideas on which Rotary is built is that projects should be sustainable. That&amp;rsquo;s why we - Rotary Club Sofia Triaditsa - are actively involved in preservation of our environment. We had participated in numerous iniciatives for afforistation and cultivating parks.
+The trees provide us with oxygen and shade. They prevent landslides but are also play a crucial part of natural wildlife ecosystems. They are an integral part of preserving the water cycles and averting droughts.</description>
+    </item>
+    
+    <item>
+      <title>Ambliopia screening</title>
+      <link>https://velzevur.github.io/rotary/en/projects/ambliopia/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/projects/ambliopia/</guid>
+      <description>The amblyopia is a condition of a reduced eyesight. It is also known as &amp;ldquo;lazy eye&amp;rdquo;. By its nature it is not an eye disease but a neurological one. With it one eye becomes dominant and the brain rejects the image received by the other one.
+Diagnosis and treatment As with any other disease, the sooner it is found - the better. This especially the case with ambliopia. Most of the times there are no visible indicators that someone has it.</description>
     </item>
     
   </channel>

@@ -2,49 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ротари клуб София Триадица</title>
-    <link>https://velzevur.github.io/rotary_blue/projects/</link>
+    <link>https://velzevur.github.io/rotary/projects/</link>
     <description>Recent content in Projects on Ротари клуб София Триадица</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
     
-	<atom:link href="https://velzevur.github.io/rotary_blue/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://velzevur.github.io/rotary/projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>RYLA</title>
-      <link>https://velzevur.github.io/rotary_blue/projects/ryla/</link>
-      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
-      
-      <guid>https://velzevur.github.io/rotary_blue/projects/ryla/</guid>
-      <description>Програмата на семинара е насочена към осигуряване на възможност изявени млади хора да развият своите умения и характери на лидери и съвестни граждани, както и да се запознаят с ценностите, високите етични стандарти и посланията за мир на Ротари. Участниците са млади хора, притежаващи:
- Лидерски умения и потенциал; Загриженост за актуални национални и международни събития и проблеми; Умения за комуникация; Добро представяне в учебен процес или на работното място; Желание за споделяне на новопридобити умения; Отдаденост в служба на обществото.</description>
-    </item>
     
     <item>
       <title>Залесяване</title>
-      <link>https://velzevur.github.io/rotary_blue/projects/three-planting/</link>
+      <link>https://velzevur.github.io/rotary/projects/afforestation/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/projects/three-planting/</guid>
-      <description>ala bala bala</description>
-    </item>
-    
-    <item>
-      <title>Подкрепа на асоцията на децата</title>
-      <link>https://velzevur.github.io/rotary_blue/projects/talanted-kids/</link>
-      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
-      
-      <guid>https://velzevur.github.io/rotary_blue/projects/talanted-kids/</guid>
-      <description>ala bala bala</description>
+      <guid>https://velzevur.github.io/rotary/projects/afforestation/</guid>
+      <description>Един от основополагащите принципи на Ротари е, че прокетите трябва да бъдат устойчиви във времето. За това ние от Ротари Клуб София Триадица сме активно ангажирани в опазването на околната среда. Участваме в множество инициативи по залесяване и облагородяване на паркови пространства.
+Дърветата ни даряват с кислород и прохладна сянка. Те предпазват от свлачища, но и предоставят жизнено важна екосистема за широк спектър от животни. Те са неразделна част от запазването на циркулацията на водата и предпазват от засушавания.</description>
     </item>
     
     <item>
       <title>Скрийнинг за амблиопия</title>
-      <link>https://velzevur.github.io/rotary_blue/projects/ambliopia/</link>
+      <link>https://velzevur.github.io/rotary/projects/ambliopia/</link>
       <pubDate>Mon, 01 Jan 2018 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/projects/ambliopia/</guid>
-      <description>Амблиопията, позната още под наименованието „мързеливо око” , представлява състояние на намалено зрение, най-често засягащо едното око, което не подлежи на корекция с очила или контактни лещи и не се дължи на определено очно заболяване. В основата си, амблиопията представлява неврологично заболяване, при което мозъкът по една или друга причина не може да възприеме образа, уловен от амблиопичното или „мързеливо”око. Макар по-често да е засегнато само едното око, намаление на зрението може да се наблюдава и в двете очи.</description>
+      <guid>https://velzevur.github.io/rotary/projects/ambliopia/</guid>
+      <description>Амблиопията е състояние на намалено зрение. Позната е под наименованията &amp;ldquo;мързеливо&amp;rdquo; или &amp;ldquo;лениво&amp;rdquo; око. По естество е неврологично заболяване, при което се наблюдава по-слабо развитие на едното око, наричано амблиоптично. В следствие на това мозъкът не възприема образа, уловен от него.
+Причини Има много различни състояния, които могат да доведат до амблиопия. Най-често срещаните са:
+ Неравностойни очи - в този случай, за да избегне двойно зрение, мозъкът спира зрението на едното око.</description>
     </item>
     
   </channel>

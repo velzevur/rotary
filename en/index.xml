@@ -2,49 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rotary club Sofia Triaditsa</title>
-    <link>https://velzevur.github.io/rotary_blue/en/</link>
+    <link>https://velzevur.github.io/rotary/en/</link>
     <description>Recent content on Rotary club Sofia Triaditsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Oct 2019 14:12:15 +0300</lastBuildDate>
     
-	<atom:link href="https://velzevur.github.io/rotary_blue/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://velzevur.github.io/rotary/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ambliopia screening</title>
-      <link>https://velzevur.github.io/rotary_blue/en/projects/ambliopia/</link>
+      <title>Afforestation</title>
+      <link>https://velzevur.github.io/rotary/en/projects/afforestation/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/en/projects/ambliopia/</guid>
-      <description>ala bala bala</description>
+      <guid>https://velzevur.github.io/rotary/en/projects/afforestation/</guid>
+      <description>One of the foundamental ideas on which Rotary is built is that projects should be sustainable. That&amp;rsquo;s why we - Rotary Club Sofia Triaditsa - are actively involved in preservation of our environment. We had participated in numerous iniciatives for afforistation and cultivating parks.
+The trees provide us with oxygen and shade. They prevent landslides but are also play a crucial part of natural wildlife ecosystems. They are an integral part of preserving the water cycles and averting droughts.</description>
     </item>
     
     <item>
-      <title>Board</title>
-      <link>https://velzevur.github.io/rotary_blue/en/about/board/</link>
+      <title>Ambliopia screening</title>
+      <link>https://velzevur.github.io/rotary/en/projects/ambliopia/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/en/about/board/</guid>
-      <description>Some board information goes here</description>
+      <guid>https://velzevur.github.io/rotary/en/projects/ambliopia/</guid>
+      <description>The amblyopia is a condition of a reduced eyesight. It is also known as &amp;ldquo;lazy eye&amp;rdquo;. By its nature it is not an eye disease but a neurological one. With it one eye becomes dominant and the brain rejects the image received by the other one.
+Diagnosis and treatment As with any other disease, the sooner it is found - the better. This especially the case with ambliopia. Most of the times there are no visible indicators that someone has it.</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://velzevur.github.io/rotary/en/about/contact/</link>
+      <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/about/contact/</guid>
+      <description>Hotel Marinela is situated on a well connected place. Near it there are a parking and a subway station. Before visiting us, please contact us at rotary.sofia.triaditsa@gmail.com</description>
     </item>
     
     <item>
       <title>Our story</title>
-      <link>https://velzevur.github.io/rotary_blue/en/about/history/</link>
+      <link>https://velzevur.github.io/rotary/en/about/history/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/en/about/history/</guid>
-      <description>The Rotary club of Sofia Triaditsa is Lorem ipsum dolor sit amet, scripserit complectitur est ut, cu eum nisl nostrum convenire. Falli persecuti ut vel, eu possit equidem mei. Copiosae laboramus deseruisse et eum, vis at torquatos signiferumque. Sed doming option ei, vix dicat offendit conceptam et. Nisl illum eu vel.
-Te velit mucius legimus mea, sit dicat debitis consequuntur an. Ex his meis dolorem temporibus, nam veritus epicuri definitionem no.</description>
+      <guid>https://velzevur.github.io/rotary/en/about/history/</guid>
+      <description>We are a group of friends, gathered by the common desire to do good. We take our causes to the heart and we put a lot of passion in our work achieving them. Our selfless service to the community provides us both with a goal and a velocoty. We find real joy when we provide for the others. If this calls home to you, please contact us.</description>
     </item>
     
     <item>
-      <title>What is Rotary</title>
-      <link>https://velzevur.github.io/rotary_blue/en/about/rotary/</link>
+      <title>Rotary Foundation</title>
+      <link>https://velzevur.github.io/rotary/en/rotary/foundation/</link>
       <pubDate>Wed, 02 Oct 2019 14:12:15 +0300</pubDate>
       
-      <guid>https://velzevur.github.io/rotary_blue/en/about/rotary/</guid>
-      <description>Detailed information for Rotary, Rotary International and Rotary Foundation goes here</description>
+      <guid>https://velzevur.github.io/rotary/en/rotary/foundation/</guid>
+      <description>The Rotary Foundation of Rotary International was founded in 1917 as a donation fund. The Congress in 1928 named it the Rotary Foundation. In 1931, the Foundation became a corporation, acting as a trustee and investment adviser, and in 1983 it was transformed into a non-profit corporation under the laws of Illinois, USA.
+The Rotary Foundation is funded solely by voluntary donations from Rotarians and Rotary friends. It is managed by its trustees solely for charitable and educational purposes, in accordance with its registration and statutes.</description>
     </item>
     
   </channel>

@@ -3,251 +3,205 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/tags/ambliopia/</loc>
-    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/</loc>
-    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/tags/</loc>
-    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
+    <loc>https://velzevur.github.io/rotary/about/</loc>
+    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/tags/"
+                href="https://velzevur.github.io/rotary/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://velzevur.github.io/rotary/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/</loc>
+    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://velzevur.github.io/rotary/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://velzevur.github.io/rotary_blue/de/tags/"
+                href="https://velzevur.github.io/rotary/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://velzevur.github.io/rotary_blue/sv/tags/"
+                href="https://velzevur.github.io/rotary/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/tags/"
+                href="https://velzevur.github.io/rotary/"
                 />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/2020-03-03/</loc>
-    <lastmod>2020-03-03T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/tags/article-first/</loc>
-    <lastmod>2019-10-06T14:13:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/sixt/</loc>
-    <lastmod>2019-10-06T14:13:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/description/</loc>
-    <lastmod>2019-10-06T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/fourth/</loc>
-    <lastmod>2019-10-05T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/third/</loc>
-    <lastmod>2019-10-04T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/about/</loc>
+    <loc>https://velzevur.github.io/rotary/projects/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://velzevur.github.io/rotary_blue/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://velzevur.github.io/rotary_blue/sv/about/"
+                href="https://velzevur.github.io/rotary/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/about/"
+                href="https://velzevur.github.io/rotary/projects/"
                 />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/</loc>
+    <loc>https://velzevur.github.io/rotary/rotary/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://velzevur.github.io/rotary_blue/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://velzevur.github.io/rotary_blue/sv/"
+                href="https://velzevur.github.io/rotary/en/rotary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/"
+                href="https://velzevur.github.io/rotary/rotary/"
                 />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/projects/</loc>
+    <loc>https://velzevur.github.io/rotary/projects/afforestation/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/projects/"
+                href="https://velzevur.github.io/rotary/en/projects/afforestation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/projects/"
+                href="https://velzevur.github.io/rotary/projects/afforestation/"
                 />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/rotary/</loc>
+    <loc>https://velzevur.github.io/rotary/rotary/history/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/projects/ryla/</loc>
+    <loc>https://velzevur.github.io/rotary/rotary/causes/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/second-news/</loc>
-    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/projects/three-planting/</loc>
-    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/rotary/history/</loc>
-    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/rotary/causes/</loc>
-    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/about/contact/</loc>
-    <lastmod>2019-10-02T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/about/history/</loc>
+    <loc>https://velzevur.github.io/rotary/about/contact/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/about/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://velzevur.github.io/rotary_blue/de/about/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://velzevur.github.io/rotary_blue/sv/about/history/"
+                href="https://velzevur.github.io/rotary/en/about/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/about/history/"
+                href="https://velzevur.github.io/rotary/about/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/projects/talanted-kids/</loc>
+    <loc>https://velzevur.github.io/rotary/about/history/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://velzevur.github.io/rotary/en/about/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://velzevur.github.io/rotary/about/history/"
+                />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/rotary/foundation/</loc>
+    <loc>https://velzevur.github.io/rotary/rotary/foundation/</loc>
     <lastmod>2019-10-02T14:12:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://velzevur.github.io/rotary/en/rotary/foundation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://velzevur.github.io/rotary/rotary/foundation/"
+                />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/first-news/</loc>
-    <lastmod>2019-10-01T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/news/2019-03-03/</loc>
-    <lastmod>2019-03-03T14:12:15+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://velzevur.github.io/rotary_blue/projects/ambliopia/</loc>
+    <loc>https://velzevur.github.io/rotary/projects/ambliopia/</loc>
     <lastmod>2018-01-01T14:12:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/projects/ambliopia/"
+                href="https://velzevur.github.io/rotary/en/projects/ambliopia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/projects/ambliopia/"
+                href="https://velzevur.github.io/rotary/projects/ambliopia/"
                 />
   </url>
   
   <url>
-    <loc>https://velzevur.github.io/rotary_blue/categories/</loc>
+    <loc>https://velzevur.github.io/rotary/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://velzevur.github.io/rotary_blue/en/categories/"
+                href="https://velzevur.github.io/rotary/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://velzevur.github.io/rotary_blue/de/categories/"
+                href="https://velzevur.github.io/rotary/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://velzevur.github.io/rotary_blue/sv/categories/"
+                href="https://velzevur.github.io/rotary/sv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://velzevur.github.io/rotary_blue/categories/"
+                href="https://velzevur.github.io/rotary/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://velzevur.github.io/rotary/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://velzevur.github.io/rotary/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://velzevur.github.io/rotary/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://velzevur.github.io/rotary/sv/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://velzevur.github.io/rotary/tags/"
                 />
   </url>
   
