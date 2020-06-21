@@ -1,14 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rotary club Sofia Triaditsa</title>
     <link>https://velzevur.github.io/rotary/en/tags/</link>
     <description>Recent content in Tags on Rotary club Sofia Triaditsa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Mar 2017 14:12:15 +0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 21:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://velzevur.github.io/rotary/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>friendship</title>
+      <link>https://velzevur.github.io/rotary/en/tags/friendship/</link>
+      <pubDate>Tue, 16 Jun 2020 21:00:00 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/tags/friendship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotary club Sofia Triaditsa</title>
+      <link>https://velzevur.github.io/rotary/en/tags/rotary-club-sofia-triaditsa/</link>
+      <pubDate>Wed, 03 Jun 2020 10:00:00 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/tags/rotary-club-sofia-triaditsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mother and child healthcare</title>
+      <link>https://velzevur.github.io/rotary/en/tags/mother-and-child-healthcare/</link>
+      <pubDate>Tue, 26 May 2020 12:00:00 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/tags/mother-and-child-healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rotaract</title>
+      <link>https://velzevur.github.io/rotary/en/tags/rotaract/</link>
+      <pubDate>Thu, 23 Apr 2020 10:30:00 +0300</pubDate>
+      
+      <guid>https://velzevur.github.io/rotary/en/tags/rotaract/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ecology</title>
